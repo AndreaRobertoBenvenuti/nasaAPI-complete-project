@@ -5,7 +5,9 @@ Sistema full-stack per analisi e visualizzazione eventi spaziali NASA
 
 ---
 
-## 🔗 SottoRepository Progetto
+**Progetto Completo**  
+Due sottorepository nelle cartelle nasa_backend e nasa_frontend, con i corrispondenti README e RELAZIONE_TECNICA
+
 
 ### Backend (Spring Boot + PostgreSQL)
 **https://github.com/AndreaRobertoBenvenuti/nasaAPI-complete-project/blob/main/nasa_backend**
