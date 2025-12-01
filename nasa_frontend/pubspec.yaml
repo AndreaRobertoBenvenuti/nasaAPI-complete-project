@@ -1,0 +1,40 @@
+name: nasa_dashboard_flutter
+description: "NASA Space Events Dashboard - Frontend"
+publish_to: 'none'
+version: 1.0.0+1
+
+environment:
+  sdk: ^3.5.0
+
+dependencies:
+  flutter:
+    sdk: flutter
+
+  # UI
+  cupertino_icons: ^1.0.8
+
+  # HTTP & API
+  http: ^1.2.2
+
+  # State Management
+  provider: ^6.1.2
+
+  # Charts & Graphs
+  fl_chart: ^0.69.0
+
+  # Date Formatting
+  intl: ^0.19.0
+
+  # Loading indicators
+  flutter_spinkit: ^5.2.1
+
+  # Icons
+  font_awesome_flutter: ^10.7.0
+
+dev_dependencies:
+  flutter_test:
+    sdk: flutter
+  flutter_lints: ^4.0.0
+
+flutter:
+  uses-material-design: true
