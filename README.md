@@ -36,11 +36,11 @@ Progetto sviluppato come test tecnico per **Dynamic Consult Milano** (23 - 27 No
 
 ## 📚 Documentazione
 
-- **[Riflessione Personale](docs/PERSONAL_REFLECTION.md)** - Lezioni apprese, sfide risolte, competenze acquisite
-- **[Backend README](https://github.com/[username]/nasa-dashboard-backend/blob/main/README.md)** - Setup, API, database
-- **[Frontend README](https://github.com/[username]/nasa-dashboard-frontend/blob/main/README.md)** - UI, screens, charts
-- **[Backend README](https://github.com/[username]/nasa-dashboard-backend/blob/main/README.md)** - Setup, API, database
-- **[Frontend README](ht)
+- **[Riflessione Personale](https://github.com/AndreaRobertoBenvenuti/nasaAPI-complete-project/blob/main/RIFLESSIONI_PERSONALI.md)** 
+- **[Backend README](https://github.com/AndreaRobertoBenvenuti/nasa-backend/blob/main/README.md)** 
+- **[Frontend README](https://github.com/AndreaRobertoBenvenuti/nasa-frontend/blob/main/README.md)** 
+- **[Backend RELAZIONE TECNICA](https://github.com/AndreaRobertoBenvenuti/nasa-backend/blob/main/RELAZIONE_TECNICA_BE.md)** 
+- **[Frontend RELAZIONE TECNICA](https://github.com/AndreaRobertoBenvenuti/nasa-frontend/blob/main/RELAZIONE_TECNICA_FE.md)**
 
 ---
 
