@@ -8,10 +8,10 @@ Sistema full-stack per analisi e visualizzazione eventi spaziali NASA
 ## 🔗 Repository Progetto
 
 ### Backend (Spring Boot + PostgreSQL)
-**https://github.com/AndreaRobertoBenvenuti/nasa-backend**
+**https://github.com/AndreaRobertoBenvenuti/nasaAPI-complete-project/blob/main/nasa_backend**
 
 ### Frontend (Flutter)
-**https://github.com/AndreaRobertoBenvenuti/nasa-frontend**
+**https://github.com/AndreaRobertoBenvenuti/nasaAPI-complete-project/blob/main/nasa_frontend**
 
 
 ---
@@ -38,10 +38,10 @@ Progetto sviluppato come test tecnico per **Dynamic Consult Milano** (23 - 27 No
 ## 📚 Documentazione
 
 - **[Riflessione Personale](https://github.com/AndreaRobertoBenvenuti/nasaAPI-complete-project/blob/main/RIFLESSIONI_PERSONALI.md)** 
-- **[Backend README](https://github.com/AndreaRobertoBenvenuti/nasa-backend/blob/main/README.md)** 
-- **[Frontend README](https://github.com/AndreaRobertoBenvenuti/nasa-frontend/blob/main/README.md)** 
-- **[Backend RELAZIONE TECNICA](https://github.com/AndreaRobertoBenvenuti/nasa-backend/blob/main/RELAZIONE_TECNICA_BE.md)** 
-- **[Frontend RELAZIONE TECNICA](https://github.com/AndreaRobertoBenvenuti/nasa-frontend/blob/main/RELAZIONE_TECNICA_FE.md)**
+- **[Backend README](https://github.com/AndreaRobertoBenvenuti/nasaAPI-complete-project/blob/main/nasa_backend/README.md)** 
+- **[Frontend README](https://github.com/AndreaRobertoBenvenuti/nasaAPI-complete-project/blob/main/nasa_frontend/README.md)** 
+- **[Backend RELAZIONE TECNICA](https://github.com/AndreaRobertoBenvenuti/nasaAPI-complete-project/blob/main/nasa_backend/RELAZIONE_TECNICA_FE.md)** 
+- **[Frontend RELAZIONE TECNICA](https://github.com/AndreaRobertoBenvenuti/nasaAPI-complete-project/blob/main/nasa_frontend/RELAZIONE_TECNICA_FE.md)**
 
 ---
 
